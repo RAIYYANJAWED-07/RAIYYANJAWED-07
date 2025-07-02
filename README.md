@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAIYYANJAWED-07
+- 👋 Hi, I’m RAIYYAN JAWED
 - 👀 I’m interested in MERN stack development and UI/UX design
 
 <!---
